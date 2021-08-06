@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sageracer815
 - 👀 I’m interested in DeFi/3D Modeling/Coding
 - 🌱 I’m currently learning JavaScript/Ethereum blockchain/Unreal Engine
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Twitter-@AtxPerez
 
 <!---
